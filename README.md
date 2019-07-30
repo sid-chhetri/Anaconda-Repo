@@ -1,2 +1,3 @@
 # Anaconda-Repo
-Contains all the python code using different libraries like numpy, pandas, matplotlib, seaborn on jupytor notebok
+Hello Humans,
+Here contains all the python code using different libraries like numpy, pandas, matplotlib, seaborn on jupyter notebook.
